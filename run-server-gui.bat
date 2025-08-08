@@ -1,0 +1,3 @@
+@echo off
+echo Starting GUI Chat Server...
+java ChatServerGUI
